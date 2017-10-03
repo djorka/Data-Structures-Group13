@@ -1,12 +1,12 @@
-//Zach Eddington
-/*Write a program in C# using a console application that demonstrates 
-the use of a Stack, Queue, and Dictionary (Map). I want you to start 
+//Zach Eddington / Andrew Schirmer / Remington Rogers / KC Lindelof
+/*Write a program in C# using a console application that demonstrates
+the use of a Stack, Queue, and Dictionary (Map). I want you to start
 trying to use GitHub for this assignment.
 
  Your application will be based around a simple menu. The functionality
  of each menu item is described in more detail below. The first menu
  prompt should be the following:
- 
+
 1. Stack
 2. Queue
 3. Dictionary
